@@ -24,8 +24,7 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>My name is Josh Matlock, and I love software engineering and my cat Simon!</p>
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+          This is a blog where I share thoughts on my journeys coding, hiking, listening to music, and practicing thoughtful reflection.
         </p>
       </section>
 
