@@ -1,9 +1,9 @@
 export default function Header() {
     return (
         <>
-            <nav>
-                This is my header!
-            </nav>
+            <span>
+                <h1>Matlock | Doors Open</h1>
+            </span>
         </>
     )
 }
