@@ -1,9 +1,11 @@
+import headerStyles from './header.module.css'
+
 export default function Header() {
     return (
         <>
-            <span>
-                <h1>Matlock | Doors Open</h1>
-            </span>
+            <header className={headerStyles.header}>
+                <h1 className={headerStyles.tagline}>Matlock | Doors Open</h1>
+            </header>
         </>
     )
 }

@@ -1,4 +1,13 @@
-.header {
-    width: 100%;
-    background-color: mediumseagreen;
+.header{
+    background-image: linear-gradient(to left, #553c9a, #b393d3);
+    padding-bottom: 65px;
+}
+
+
+.tagline {
+    font-size: 70px;
+    font-weight: 600;
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
 }

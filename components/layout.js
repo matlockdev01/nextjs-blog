@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
+import profilePic from '../public/images/profiles.jpg'
 import styles from './layout.module.css';
 import utilStyles from '../styles/utils.module.css';
 import Link from 'next/link';
@@ -33,7 +34,7 @@ export default function Layout({ children, home }) {
           <>
             <Image
               priority
-              src="/images/profile.jpg"
+              src={profilePic}
               className={utilStyles.borderCircle}
               height={144}
               width={144}
@@ -46,10 +47,10 @@ export default function Layout({ children, home }) {
             <Link href="/">
               <Image
                 priority
-                src="/images/profile.jpg"
+                src={profilePic}
                 className={utilStyles.borderCircle}
-                height={108}
-                width={108}
+                height={90}
+                width={90}
                 alt=""
               />
             </Link>
