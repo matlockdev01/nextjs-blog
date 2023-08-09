@@ -1,5 +1,5 @@
 ---
-title: 'Anything'
+title: 'Birds. Bears. Buffalo National River.'
 date: '2023-08-08'
 ---
 

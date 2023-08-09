@@ -22,7 +22,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>My name is Josh Matlock, and I love software engineering and my cat Simon!</p>
+        <p>My name is Josh Matlock. I love software engineering, birding, and my cat Simon!</p>
+        <br></br>
         <p>
           This is a blog where I share thoughts on my journeys coding, hiking, listening to music, and practicing thoughtful reflection.
         </p>
