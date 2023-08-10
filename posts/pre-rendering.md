@@ -18,8 +18,11 @@ I went camping recently with a friend in the Steel Creek campground of the Buffa
 
 &nbsp;
 
-![Buffalo National River](http://2.bp.blogspot.com/-oLSqEZ_OVdw/UmW2PxNneHI/AAAAAAAAC0A/yiXnbWeOL64/s1600/IMG_2809.JPG)
+<img src="http://2.bp.blogspot.com/-oLSqEZ_OVdw/UmW2PxNneHI/AAAAAAAAC0A/yiXnbWeOL64/s1600/IMG_2809.JPG" width="200" height="100">
+
+![Buffalo National River](http://2.bp.blogspot.com/-oLSqEZ_OVdw/UmW2PxNneHI/AAAAAAAAC0A/yiXnbWeOL64/s1600/IMG_2809.JPG style="width:100px")
 View of the bluff at Steel Creek Campground
+
 &nbsp;
 
 &nbsp;
@@ -43,8 +46,10 @@ Earlier on our drive over, my friend confided in me as we sped through dark wall
 &nbsp;
 
 &nbsp;
+
 I don't have a nice conclusion to this entry in which I reflect on the answers to continuing on through life's discouragements. As of right now, I can only reflect on how ubiquitous and numerous these types of boundaries and challenges are in our lives, and remind myself that it is these challenges that present opportunities for us to connect with each other. Reminds me of one of my favorite quotes from a Murakami novel:
 &nbsp;
 
 &nbsp;
+
 "And in that moment, he was finally able to accept it all. In the deepest recesses of his soul, Tsukuru Tazaki understood. One heart is not connected to another through harmony alone. They are, instead, linked deeply through their wounds. Pain linked to pain, fragility to fragility. There is no silence without a cry of grief, no forgiveness without bloodshed, no acceptance without a passage through acute loss. That is what lies at the root of true harmony."
